@@ -1,12 +1,12 @@
-﻿   bin/
-   obj/
-   *.user
-   *.suo
-   packages/
-   .vs/
-   .idea/
-   *.swp
-   appsettings.Development.json
-   *.pfx
-  .DS_Store
-  Thumbs.db
+﻿bin/
+obj/
+*.user
+*.suo
+packages/
+.vs/
+.idea/
+*.swp
+appsettings.Development.json
+*.pfx
+.DS_Store
+Thumbs.db
